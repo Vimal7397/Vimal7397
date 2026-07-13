@@ -16,7 +16,7 @@
 <br/>
 
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 <picture>
@@ -28,7 +28,7 @@
 
 <br/>
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -77,7 +77,7 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -98,7 +98,7 @@
 
 
 
-## ✍️ Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="90%"/>
@@ -106,7 +106,7 @@
 
 <br/>
 
-## 📬 Let's Connect
+## Let's Connect
 
 <div align="center">
 
